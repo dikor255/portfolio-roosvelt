@@ -9,7 +9,7 @@ Ce projet consiste à mettre en place un réseau WAN composé de deux réseaux L
 - Configurer les routeurs pour assurer l’interconnexion
 - Mettre en place un plan d’adressage IP propre et structuré
 - Vérifier la communication entre les deux réseaux (ping)
-- Tester la connectivité et analyser les trames (Packet Tracer)
+  
 
   
 ## Tecnhologies & outils utilisés
